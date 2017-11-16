@@ -1,0 +1,30 @@
+.bg-q-01 {
+  background: rgba(53, 126, 221, 0.02);
+}
+
+.hover-bg-q-01:hover {
+  background: rgba(53, 126, 221, 0.02);
+}
+
+.bg-qucentis {
+  background: #357edd;
+}
+
+.qucentis {
+  color: #357edd;
+}
+
+.help-text::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.help-text::-webkit-scrollbar {
+  width: 12px;
+  background-color: transparent;
+}
+
+.help-text::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.15);
+}
