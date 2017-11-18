@@ -2,7 +2,7 @@
   "name": "animatedjs-docs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jikkujose.github.io/animatedJS-docs/",
+  "homepage": "https://jikkujose.github.io/animatedjs/",
   "dependencies": {
     "animated": "^0.2.1",
     "polished": "^1.9.0",
